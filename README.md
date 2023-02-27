@@ -24,4 +24,5 @@ Balanced Accuracy Scores and Precision
  ![BalancedRandomForestClassifier](https://user-images.githubusercontent.com/115032384/221467142-26dab85d-8a5b-41fa-8a3b-a90a7b3033e5.png)
 
 - Easy Ensemble AdaBoost Classifier 
+
 ![EasyEnsembleAdaBoostClassifier](https://user-images.githubusercontent.com/115032384/221467175-fcd83748-e3a5-49c2-be1d-82f7124d79bd.png)
